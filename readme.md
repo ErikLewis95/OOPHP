@@ -22,7 +22,7 @@ OOP
 4. Objek bisa saling berinterasi.
 5. Java, Ruby, Python, C++, Javascript, PHP >= versi 5.
 
-Kelebihan Procedural Programming
+Kelebihan OOP Programming
 1. Lebih mudah merepresentasikan dunia nyata.
 2. Enkapsulasi & Abstraksi Data -> memungkinkan data yang dibuat aman dari sisi tidak bisa diakses dari bagian lain program kita, Absraksi -> mudah untuk menyembunyikan kerumitan program.
 3. Reusability-> Dengan Mudah menggunakan ulang bagian program yang kita buat.
