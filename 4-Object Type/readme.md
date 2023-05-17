@@ -1,0 +1,1 @@
+type data pada php primitif : int, string, boolean, dan tyoe data bentukan seperti array
